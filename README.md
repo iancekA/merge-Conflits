@@ -1,4 +1,4 @@
-LOCAL !
+LOCAL 
 
 
 TEST NUMERO 1
